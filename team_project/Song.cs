@@ -8,5 +8,7 @@ namespace team_project
 {
     class Song
     {
+        public int IdSong { get; set; }
+        public string NameSong { get; set; }
     }
 }

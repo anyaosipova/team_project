@@ -8,5 +8,7 @@ namespace team_project
 {
     class Artist
     {
+        public int IdArtist { get; set; }
+        public string NameArtist { get; set; }
     }
 }
